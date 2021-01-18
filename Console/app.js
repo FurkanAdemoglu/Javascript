@@ -5,6 +5,6 @@
 // var a=20;
 // console.log(a);
 
-// console.log(["Ahmet","Mehmet"]);
+console.log(["Ahmet","Mehmet","Veli"]);
 console.warn("Bu bir uyarıdır");
 console.error("Bu sayfa bulunamadı");
